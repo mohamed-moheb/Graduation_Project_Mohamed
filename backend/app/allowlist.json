@@ -1,0 +1,996 @@
+{
+  "T1001": [
+    "ip",
+    "process_command"
+  ],
+  "T1003": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1003.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1003.002": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1003.003": [
+    "process_command"
+  ],
+  "T1003.004": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1003.005": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1003.006": [
+    "process_command"
+  ],
+  "T1003.007": [
+    "process_command"
+  ],
+  "T1003.008": [
+    "process_command"
+  ],
+  "T1005": [
+    "process_command"
+  ],
+  "T1008": [
+    "domain",
+    "ip"
+  ],
+  "T1016": [
+    "process_command"
+  ],
+  "T1018": [
+    "ip",
+    "process_command"
+  ],
+  "T1020": [
+    "ip",
+    "process_command"
+  ],
+  "T1021.001": [
+    "ip"
+  ],
+  "T1021.002": [
+    "ip"
+  ],
+  "T1021.003": [
+    "ip",
+    "process_command"
+  ],
+  "T1021.004": [
+    "ip"
+  ],
+  "T1021.005": [
+    "ip"
+  ],
+  "T1021.006": [
+    "ip",
+    "process_command"
+  ],
+  "T1027": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1027.004": [
+    "process_command"
+  ],
+  "T1027.006": [
+    "process_command"
+  ],
+  "T1027.007": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1027.009": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1027.010": [
+    "process_command"
+  ],
+  "T1027.011": [
+    "registry_key"
+  ],
+  "T1027.013": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1030": [
+    "ip",
+    "process_command"
+  ],
+  "T1033": [
+    "process_command"
+  ],
+  "T1036": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1036.003": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1036.004": [
+    "process_command"
+  ],
+  "T1036.005": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1036.006": [
+    "process_command"
+  ],
+  "T1036.007": [
+    "file_hash"
+  ],
+  "T1036.008": [
+    "file_hash"
+  ],
+  "T1041": [
+    "domain",
+    "ip"
+  ],
+  "T1043": [
+    "domain",
+    "ip"
+  ],
+  "T1046": [
+    "ip",
+    "process_command"
+  ],
+  "T1047": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1048": [
+    "domain",
+    "ip"
+  ],
+  "T1048.001": [
+    "ip"
+  ],
+  "T1048.002": [
+    "ip"
+  ],
+  "T1048.003": [
+    "ip"
+  ],
+  "T1053": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1053.002": [
+    "process_command"
+  ],
+  "T1053.003": [
+    "process_command"
+  ],
+  "T1053.005": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1055": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1055.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1055.002": [
+    "process_command"
+  ],
+  "T1055.003": [
+    "process_command"
+  ],
+  "T1055.004": [
+    "process_command"
+  ],
+  "T1055.009": [
+    "process_command"
+  ],
+  "T1055.012": [
+    "process_command"
+  ],
+  "T1055.013": [
+    "process_command"
+  ],
+  "T1056.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1057": [
+    "process_command"
+  ],
+  "T1059": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1059.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1059.002": [
+    "process_command"
+  ],
+  "T1059.003": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1059.004": [
+    "process_command"
+  ],
+  "T1059.005": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1059.006": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1059.007": [
+    "file_hash",
+    "process_command",
+    "url"
+  ],
+  "T1059.009": [
+    "process_command"
+  ],
+  "T1068": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1069.001": [
+    "process_command"
+  ],
+  "T1069.002": [
+    "domain",
+    "process_command"
+  ],
+  "T1070.001": [
+    "process_command"
+  ],
+  "T1070.002": [
+    "process_command"
+  ],
+  "T1070.003": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1070.004": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1070.005": [
+    "process_command"
+  ],
+  "T1070.006": [
+    "process_command"
+  ],
+  "T1070.007": [
+    "process_command"
+  ],
+  "T1070.009": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1071": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1071.001": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1071.002": [
+    "domain",
+    "ip"
+  ],
+  "T1071.003": [
+    "domain",
+    "ip"
+  ],
+  "T1071.004": [
+    "domain",
+    "ip"
+  ],
+  "T1071.005": [
+    "ip"
+  ],
+  "T1074.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1078": [
+    "ip",
+    "process_command"
+  ],
+  "T1078.001": [
+    "process_command"
+  ],
+  "T1078.002": [
+    "process_command"
+  ],
+  "T1078.003": [
+    "process_command"
+  ],
+  "T1080": [
+    "ip",
+    "process_command"
+  ],
+  "T1082": [
+    "process_command"
+  ],
+  "T1083": [
+    "process_command"
+  ],
+  "T1087.001": [
+    "process_command"
+  ],
+  "T1087.002": [
+    "domain",
+    "process_command"
+  ],
+  "T1087.003": [
+    "process_command"
+  ],
+  "T1087.004": [
+    "process_command"
+  ],
+  "T1090": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1090.003": [
+    "domain",
+    "ip"
+  ],
+  "T1095": [
+    "ip"
+  ],
+  "T1098.001": [
+    "process_command"
+  ],
+  "T1098.004": [
+    "file_hash"
+  ],
+  "T1102": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1102.001": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1102.002": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1102.003": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1104": [
+    "domain",
+    "ip"
+  ],
+  "T1105": [
+    "domain",
+    "file_hash",
+    "ip",
+    "url"
+  ],
+  "T1106": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1110": [
+    "domain",
+    "ip"
+  ],
+  "T1110.001": [
+    "domain",
+    "ip",
+    "process_command"
+  ],
+  "T1110.002": [
+    "process_command"
+  ],
+  "T1110.003": [
+    "ip",
+    "process_command"
+  ],
+  "T1110.004": [
+    "process_command"
+  ],
+  "T1113": [
+    "process_command"
+  ],
+  "T1114.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1114.002": [
+    "process_command"
+  ],
+  "T1115": [
+    "process_command"
+  ],
+  "T1127.001": [
+    "process_command"
+  ],
+  "T1129": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1132": [
+    "ip",
+    "process_command"
+  ],
+  "T1132.001": [
+    "ip",
+    "process_command"
+  ],
+  "T1132.002": [
+    "ip",
+    "process_command"
+  ],
+  "T1133": [
+    "domain",
+    "ip"
+  ],
+  "T1134.001": [
+    "process_command"
+  ],
+  "T1134.002": [
+    "process_command"
+  ],
+  "T1134.003": [
+    "process_command"
+  ],
+  "T1134.004": [
+    "process_command"
+  ],
+  "T1134.005": [
+    "process_command"
+  ],
+  "T1135": [
+    "ip",
+    "process_command"
+  ],
+  "T1136.001": [
+    "process_command"
+  ],
+  "T1136.002": [
+    "process_command"
+  ],
+  "T1136.003": [
+    "process_command"
+  ],
+  "T1140": [
+    "file_hash",
+    "process_command",
+    "url"
+  ],
+  "T1176": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1185": [
+    "process_command"
+  ],
+  "T1189": [
+    "ip",
+    "url"
+  ],
+  "T1190": [
+    "ip",
+    "url"
+  ],
+  "T1195.002": [
+    "file_hash",
+    "url"
+  ],
+  "T1197": [
+    "process_command"
+  ],
+  "T1199": [
+    "ip"
+  ],
+  "T1202": [
+    "process_command"
+  ],
+  "T1204.001": [
+    "email",
+    "url"
+  ],
+  "T1204.002": [
+    "email",
+    "file_hash"
+  ],
+  "T1204.003": [
+    "process_command"
+  ],
+  "T1210": [
+    "ip"
+  ],
+  "T1211": [
+    "process_command"
+  ],
+  "T1212": [
+    "ip",
+    "process_command"
+  ],
+  "T1216.001": [
+    "process_command"
+  ],
+  "T1218.001": [
+    "process_command"
+  ],
+  "T1218.002": [
+    "process_command"
+  ],
+  "T1218.003": [
+    "process_command"
+  ],
+  "T1218.004": [
+    "process_command"
+  ],
+  "T1218.005": [
+    "domain",
+    "process_command",
+    "url"
+  ],
+  "T1218.007": [
+    "process_command"
+  ],
+  "T1218.008": [
+    "process_command"
+  ],
+  "T1218.009": [
+    "process_command"
+  ],
+  "T1218.010": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1218.011": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1218.012": [
+    "process_command"
+  ],
+  "T1218.013": [
+    "process_command"
+  ],
+  "T1218.014": [
+    "process_command"
+  ],
+  "T1219": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1219.001": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1219.002": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1219.003": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1220": [
+    "process_command"
+  ],
+  "T1480.001": [
+    "process_command"
+  ],
+  "T1484.001": [
+    "process_command"
+  ],
+  "T1484.002": [
+    "process_command"
+  ],
+  "T1485": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1486": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1489": [
+    "process_command"
+  ],
+  "T1490": [
+    "process_command"
+  ],
+  "T1491.001": [
+    "process_command"
+  ],
+  "T1491.002": [
+    "ip",
+    "url"
+  ],
+  "T1496.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1497.001": [
+    "process_command"
+  ],
+  "T1497.002": [
+    "process_command"
+  ],
+  "T1497.003": [
+    "process_command"
+  ],
+  "T1499.001": [
+    "ip",
+    "process_command"
+  ],
+  "T1505.003": [
+    "file_hash",
+    "ip",
+    "url"
+  ],
+  "T1505.004": [
+    "process_command"
+  ],
+  "T1518": [
+    "process_command"
+  ],
+  "T1518.001": [
+    "process_command"
+  ],
+  "T1528": [
+    "process_command"
+  ],
+  "T1534": [
+    "email",
+    "process_command"
+  ],
+  "T1537": [
+    "process_command",
+    "url"
+  ],
+  "T1539": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1542.001": [
+    "process_command"
+  ],
+  "T1542.003": [
+    "process_command"
+  ],
+  "T1543.002": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1543.003": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1546.001": [
+    "registry_key"
+  ],
+  "T1546.002": [
+    "registry_key"
+  ],
+  "T1546.003": [
+    "process_command"
+  ],
+  "T1546.007": [
+    "process_command"
+  ],
+  "T1546.008": [
+    "file_hash"
+  ],
+  "T1546.009": [
+    "registry_key"
+  ],
+  "T1546.010": [
+    "registry_key"
+  ],
+  "T1546.011": [
+    "process_command"
+  ],
+  "T1546.012": [
+    "registry_key"
+  ],
+  "T1546.015": [
+    "registry_key"
+  ],
+  "T1547.001": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1547.002": [
+    "registry_key"
+  ],
+  "T1547.003": [
+    "registry_key"
+  ],
+  "T1547.004": [
+    "registry_key"
+  ],
+  "T1547.005": [
+    "registry_key"
+  ],
+  "T1547.009": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1548.002": [
+    "process_command"
+  ],
+  "T1550.001": [
+    "process_command"
+  ],
+  "T1550.002": [
+    "ip",
+    "process_command"
+  ],
+  "T1550.003": [
+    "process_command"
+  ],
+  "T1550.004": [
+    "process_command",
+    "url"
+  ],
+  "T1552.001": [
+    "process_command"
+  ],
+  "T1552.002": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1552.004": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1552.006": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1553.002": [
+    "process_command"
+  ],
+  "T1553.004": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1553.005": [
+    "process_command"
+  ],
+  "T1555": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1555.001": [
+    "process_command"
+  ],
+  "T1555.003": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1555.004": [
+    "process_command"
+  ],
+  "T1555.005": [
+    "process_command"
+  ],
+  "T1556.001": [
+    "registry_key"
+  ],
+  "T1556.002": [
+    "process_command"
+  ],
+  "T1557.001": [
+    "ip",
+    "process_command"
+  ],
+  "T1557.002": [
+    "ip",
+    "process_command"
+  ],
+  "T1558.001": [
+    "process_command"
+  ],
+  "T1558.002": [
+    "process_command"
+  ],
+  "T1558.003": [
+    "process_command"
+  ],
+  "T1558.004": [
+    "process_command"
+  ],
+  "T1559.001": [
+    "process_command"
+  ],
+  "T1559.002": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1560.001": [
+    "process_command"
+  ],
+  "T1560.002": [
+    "process_command"
+  ],
+  "T1561.001": [
+    "process_command"
+  ],
+  "T1561.002": [
+    "process_command"
+  ],
+  "T1562.001": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1562.002": [
+    "process_command"
+  ],
+  "T1562.003": [
+    "process_command"
+  ],
+  "T1562.004": [
+    "process_command"
+  ],
+  "T1562.006": [
+    "process_command"
+  ],
+  "T1562.009": [
+    "process_command"
+  ],
+  "T1562.010": [
+    "process_command"
+  ],
+  "T1563.001": [
+    "process_command"
+  ],
+  "T1563.002": [
+    "process_command"
+  ],
+  "T1564.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1564.003": [
+    "process_command"
+  ],
+  "T1564.004": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1565.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1566.001": [
+    "email",
+    "file_hash"
+  ],
+  "T1566.002": [
+    "email",
+    "url"
+  ],
+  "T1566.003": [
+    "email",
+    "url"
+  ],
+  "T1567": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1567.001": [
+    "process_command",
+    "url"
+  ],
+  "T1567.002": [
+    "domain",
+    "ip",
+    "url"
+  ],
+  "T1567.003": [
+    "domain",
+    "url"
+  ],
+  "T1569.002": [
+    "process_command"
+  ],
+  "T1570": [
+    "file_hash",
+    "ip"
+  ],
+  "T1571": [
+    "ip"
+  ],
+  "T1572": [
+    "ip",
+    "process_command"
+  ],
+  "T1573": [
+    "domain",
+    "ip"
+  ],
+  "T1573.001": [
+    "ip",
+    "process_command"
+  ],
+  "T1573.002": [
+    "ip",
+    "process_command"
+  ],
+  "T1574.001": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1574.002": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1574.004": [
+    "file_hash"
+  ],
+  "T1574.006": [
+    "process_command"
+  ],
+  "T1574.009": [
+    "process_command"
+  ],
+  "T1574.011": [
+    "registry_key"
+  ],
+  "T1574.012": [
+    "process_command"
+  ],
+  "T1601.001": [
+    "process_command"
+  ],
+  "T1610": [
+    "process_command"
+  ],
+  "T1611": [
+    "process_command"
+  ],
+  "T1614": [
+    "process_command",
+    "registry_key"
+  ],
+  "T1620": [
+    "file_hash",
+    "process_command"
+  ],
+  "T1647": [
+    "process_command"
+  ],
+  "T1648": [
+    "process_command",
+    "url"
+  ]
+}
